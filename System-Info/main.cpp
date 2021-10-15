@@ -2,7 +2,7 @@
 //  main.cpp
 //  System-Info
 //
-//  Created by Jackson Fortner on 4/9/21.
+//  Created by ThePotato456 on 4/9/21.
 //
 
 #include <iostream>
