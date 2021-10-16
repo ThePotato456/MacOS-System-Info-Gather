@@ -42,7 +42,7 @@ int main(int argc, const char * argv[]) {
     int total_memory = GetSystemTotalMemory();
     char *system_model = GetSystemModel();
 
-    cout << "[*] Printing system info...." << endl;
+    cout << "[*] test system info...." << endl;
     cout << "   [+] System Model:          : " << system_model << endl;
     cout << "   [+] Total Memory Installed : " << total_memory << "mb" << endl;
     
